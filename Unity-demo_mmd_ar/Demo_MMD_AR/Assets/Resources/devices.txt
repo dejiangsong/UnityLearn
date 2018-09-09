@@ -1,0 +1,1 @@
+Android.ANDROID_ID=9254c2e4c711379c,Android.SERIAL=emulator-5554

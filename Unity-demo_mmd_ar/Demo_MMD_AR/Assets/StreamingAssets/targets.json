@@ -1,0 +1,26 @@
+{
+    "images":
+    [
+        {
+            "image":"1.jpg",
+            "name":"1",
+            "size":[6, 8.5],
+            "uid":"uid-string, should NOT duplicate",
+            "meta":"what ever string you like."
+        },
+        {
+            "image":"2.jpg",
+            "name":"2",
+            "size":[6, 8.5],
+            "uid":"QingYanBaiLong",
+            "meta":"atk:3000,def:2500"
+        },
+        {
+            "image":"3.jpg",
+            "name":"3",
+            "size":[8.5, 5.5],
+            "uid":"JiaLu",
+            "meta":"What are fu_k doing?"
+        }
+    ]
+}

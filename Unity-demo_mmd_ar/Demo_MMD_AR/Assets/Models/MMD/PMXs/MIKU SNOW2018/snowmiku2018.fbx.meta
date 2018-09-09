@@ -1,0 +1,478 @@
+fileFormatVersion: 2
+guid: 12211dbb5837c93419ef5c38e9f83ed4
+timeCreated: 1533622610
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 0.!joint_Actuator
+    100002: 1.!joint_Master
+    100004: 10.!joint_HeadTip
+    100006: 100.!joint_EyesTip
+    100008: 101.!joint_bone72
+    100010: 102.!joint_bone73
+    100012: 103.!joint_bone72_end
+    100014: 104.!joint_bone73_end
+    100016: 105.joint_bone76
+    100018: 106.joint_bone77
+    100020: 107.!joint_bone76_end
+    100022: 108.!joint_bone77_end
+    100024: 109.!joint_bone78_end
+    100026: 11.!joint_hidarikataP
+    100028: 110.!joint_bone79_end
+    100030: 111.!IK_LeftHipParent
+    100032: 112.!IK_LeftHip
+    100034: 113.!IK_LeftHipTip
+    100036: 114.!IK_LeftToe
+    100038: 115.!IK_LeftToeTip
+    100040: 116.!IK_RightHipParent
+    100042: 117.!IK_RightHip
+    100044: 118.!IK_RightHipTip
+    100046: 119.!IK_RightToe
+    100048: 12.joint_LeftShoulder
+    100050: 120.!IK_RightToeTip
+    100052: 121.joint_RightHipD
+    100054: 122.joint_RightKneeD
+    100056: 123.joint_RightFootD
+    100058: 124.joint_migiashisakiEX
+    100060: 125.joint_LeftHipD
+    100062: 126.joint_LeftKneeD
+    100064: 127.joint_LeftFootD
+    100066: 128.joint_hidariashisakiEX
+    100068: 129.!Root
+    100070: 13.!joint_LeftShoulderC
+    100072: 130.!joint_LeftThumb0M
+    100074: 131.!joint_RightThumb0M
+    100076: 14.joint_LeftArm
+    100078: 15.joint_LeftArmTwist
+    100080: 16.joint_LeftArmTwist1
+    100082: 17.joint_LeftArmTwist2
+    100084: 18.joint_LeftArmTwist3
+    100086: 19.joint_LeftElbow
+    100088: 2.!joint_Center
+    100090: 20.joint_LeftHandTwist
+    100092: 21.joint_LeftHandTwist1
+    100094: 22.joint_LeftHandTwist2
+    100096: 23.joint_LeftHandTwist3
+    100098: 24.joint_LeftWrist
+    100100: 25.!joint_LeftDummy
+    100102: 26.!joint_LeftHandTip
+    100104: 27.joint_LeftThumb0
+    100106: 28.joint_LeftThumb1
+    100108: 29.joint_LeftThumb2
+    100110: 3.!joint_guru^bu
+    100112: 30.!joint_LeftThumbTip
+    100114: 31.joint_LeftIndex1
+    100116: 32.joint_LeftIndex2
+    100118: 33.joint_LeftIndex3
+    100120: 34.!joint_LeftIndexTip
+    100122: 35.joint_LeftMiddle1
+    100124: 36.joint_LeftMiddle2
+    100126: 37.joint_LeftMiddle3
+    100128: 38.!joint_LeftMiddleTip
+    100130: 39.joint_LeftRing1
+    100132: 4.!joint_Waist
+    100134: 40.joint_LeftRing2
+    100136: 41.joint_LeftRing3
+    100138: 42.!joint_LeftRingTip
+    100140: 43.joint_LeftPinky1
+    100142: 44.joint_LeftPinky2
+    100144: 45.joint_LeftPinky3
+    100146: 46.!joint_LeftPinkyTip
+    100148: 47.!joint_migikataP
+    100150: 48.joint_RightShoulder
+    100152: 49.!joint_RightShoulderC
+    100154: 5.!joint_CenterTip
+    100156: 50.joint_RightArm
+    100158: 51.joint_RightArmTwist
+    100160: 52.joint_RightArmTwist1
+    100162: 53.joint_RightArmTwist2
+    100164: 54.joint_RightArmTwist3
+    100166: 55.joint_RightElbow
+    100168: 56.joint_RightHandTwist
+    100170: 57.joint_RightHandTwist1
+    100172: 58.joint_RightHandTwist2
+    100174: 59.joint_RightHandTwist3
+    100176: 6.joint_Torso
+    100178: 60.joint_RightWrist
+    100180: 61.!joint_RightDummy
+    100182: 62.!joint_RightHandTip
+    100184: 63.joint_RightThumb0
+    100186: 64.joint_RightThumb1
+    100188: 65.joint_RightThumb2
+    100190: 66.!joint_RightThumbTip
+    100192: 67.joint_RightIndex1
+    100194: 68.joint_RightIndex2
+    100196: 69.joint_RightIndex3
+    100198: 7.joint_Torso2
+    100200: 70.!joint_RightIndexTip
+    100202: 71.joint_RightMiddle1
+    100204: 72.joint_RightMiddle2
+    100206: 73.joint_RightMiddle3
+    100208: 74.!joint_RightMiddleTip
+    100210: 75.joint_RightRing1
+    100212: 76.joint_RightRing2
+    100214: 77.joint_RightRing3
+    100216: 78.!joint_RightRingTip
+    100218: 79.joint_RightPinky1
+    100220: 8.joint_Neck
+    100222: 80.joint_RightPinky2
+    100224: 81.joint_RightPinky3
+    100226: 82.!joint_RightPinkyTip
+    100228: 83.joint_HipMaster
+    100230: 84.!joint_HipMasterTip
+    100232: 85.!joint_koshikyanseruhidari
+    100234: 86.!joint_LeftHip
+    100236: 87.!joint_LeftKnee
+    100238: 88.!joint_LeftFoot
+    100240: 89.!joint_bone71
+    100242: 9.joint_Head
+    100244: 90.!joint_koshikyanserumigi
+    100246: 91.!joint_RightHip
+    100248: 92.!joint_RightKnee
+    100250: 93.!joint_RightFoot
+    100252: 94.!joint_bone70
+    100254: 95.joint_LeftEye
+    100256: 96.!joint_LeftEyeTip
+    100258: 97.joint_RightEye
+    100260: 98.!joint_RightEyeTip
+    100262: 99.!joint_Eyes
+    100264: //RootNode
+    100266: U_Char
+    400000: 0.!joint_Actuator
+    400002: 1.!joint_Master
+    400004: 10.!joint_HeadTip
+    400006: 100.!joint_EyesTip
+    400008: 101.!joint_bone72
+    400010: 102.!joint_bone73
+    400012: 103.!joint_bone72_end
+    400014: 104.!joint_bone73_end
+    400016: 105.joint_bone76
+    400018: 106.joint_bone77
+    400020: 107.!joint_bone76_end
+    400022: 108.!joint_bone77_end
+    400024: 109.!joint_bone78_end
+    400026: 11.!joint_hidarikataP
+    400028: 110.!joint_bone79_end
+    400030: 111.!IK_LeftHipParent
+    400032: 112.!IK_LeftHip
+    400034: 113.!IK_LeftHipTip
+    400036: 114.!IK_LeftToe
+    400038: 115.!IK_LeftToeTip
+    400040: 116.!IK_RightHipParent
+    400042: 117.!IK_RightHip
+    400044: 118.!IK_RightHipTip
+    400046: 119.!IK_RightToe
+    400048: 12.joint_LeftShoulder
+    400050: 120.!IK_RightToeTip
+    400052: 121.joint_RightHipD
+    400054: 122.joint_RightKneeD
+    400056: 123.joint_RightFootD
+    400058: 124.joint_migiashisakiEX
+    400060: 125.joint_LeftHipD
+    400062: 126.joint_LeftKneeD
+    400064: 127.joint_LeftFootD
+    400066: 128.joint_hidariashisakiEX
+    400068: 129.!Root
+    400070: 13.!joint_LeftShoulderC
+    400072: 130.!joint_LeftThumb0M
+    400074: 131.!joint_RightThumb0M
+    400076: 14.joint_LeftArm
+    400078: 15.joint_LeftArmTwist
+    400080: 16.joint_LeftArmTwist1
+    400082: 17.joint_LeftArmTwist2
+    400084: 18.joint_LeftArmTwist3
+    400086: 19.joint_LeftElbow
+    400088: 2.!joint_Center
+    400090: 20.joint_LeftHandTwist
+    400092: 21.joint_LeftHandTwist1
+    400094: 22.joint_LeftHandTwist2
+    400096: 23.joint_LeftHandTwist3
+    400098: 24.joint_LeftWrist
+    400100: 25.!joint_LeftDummy
+    400102: 26.!joint_LeftHandTip
+    400104: 27.joint_LeftThumb0
+    400106: 28.joint_LeftThumb1
+    400108: 29.joint_LeftThumb2
+    400110: 3.!joint_guru^bu
+    400112: 30.!joint_LeftThumbTip
+    400114: 31.joint_LeftIndex1
+    400116: 32.joint_LeftIndex2
+    400118: 33.joint_LeftIndex3
+    400120: 34.!joint_LeftIndexTip
+    400122: 35.joint_LeftMiddle1
+    400124: 36.joint_LeftMiddle2
+    400126: 37.joint_LeftMiddle3
+    400128: 38.!joint_LeftMiddleTip
+    400130: 39.joint_LeftRing1
+    400132: 4.!joint_Waist
+    400134: 40.joint_LeftRing2
+    400136: 41.joint_LeftRing3
+    400138: 42.!joint_LeftRingTip
+    400140: 43.joint_LeftPinky1
+    400142: 44.joint_LeftPinky2
+    400144: 45.joint_LeftPinky3
+    400146: 46.!joint_LeftPinkyTip
+    400148: 47.!joint_migikataP
+    400150: 48.joint_RightShoulder
+    400152: 49.!joint_RightShoulderC
+    400154: 5.!joint_CenterTip
+    400156: 50.joint_RightArm
+    400158: 51.joint_RightArmTwist
+    400160: 52.joint_RightArmTwist1
+    400162: 53.joint_RightArmTwist2
+    400164: 54.joint_RightArmTwist3
+    400166: 55.joint_RightElbow
+    400168: 56.joint_RightHandTwist
+    400170: 57.joint_RightHandTwist1
+    400172: 58.joint_RightHandTwist2
+    400174: 59.joint_RightHandTwist3
+    400176: 6.joint_Torso
+    400178: 60.joint_RightWrist
+    400180: 61.!joint_RightDummy
+    400182: 62.!joint_RightHandTip
+    400184: 63.joint_RightThumb0
+    400186: 64.joint_RightThumb1
+    400188: 65.joint_RightThumb2
+    400190: 66.!joint_RightThumbTip
+    400192: 67.joint_RightIndex1
+    400194: 68.joint_RightIndex2
+    400196: 69.joint_RightIndex3
+    400198: 7.joint_Torso2
+    400200: 70.!joint_RightIndexTip
+    400202: 71.joint_RightMiddle1
+    400204: 72.joint_RightMiddle2
+    400206: 73.joint_RightMiddle3
+    400208: 74.!joint_RightMiddleTip
+    400210: 75.joint_RightRing1
+    400212: 76.joint_RightRing2
+    400214: 77.joint_RightRing3
+    400216: 78.!joint_RightRingTip
+    400218: 79.joint_RightPinky1
+    400220: 8.joint_Neck
+    400222: 80.joint_RightPinky2
+    400224: 81.joint_RightPinky3
+    400226: 82.!joint_RightPinkyTip
+    400228: 83.joint_HipMaster
+    400230: 84.!joint_HipMasterTip
+    400232: 85.!joint_koshikyanseruhidari
+    400234: 86.!joint_LeftHip
+    400236: 87.!joint_LeftKnee
+    400238: 88.!joint_LeftFoot
+    400240: 89.!joint_bone71
+    400242: 9.joint_Head
+    400244: 90.!joint_koshikyanserumigi
+    400246: 91.!joint_RightHip
+    400248: 92.!joint_RightKnee
+    400250: 93.!joint_RightFoot
+    400252: 94.!joint_bone70
+    400254: 95.joint_LeftEye
+    400256: 96.!joint_LeftEyeTip
+    400258: 97.joint_RightEye
+    400260: 98.!joint_RightEyeTip
+    400262: 99.!joint_Eyes
+    400264: //RootNode
+    400266: U_Char
+    4300000: U_Char
+    7400000: "\u6781\u4E50\u51C0\u571F_vmd"
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: U_Char
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0.body
+    second: {fileID: 2100000, guid: 319d616094cd7534495ef2e4799939f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1.face2
+    second: {fileID: 2100000, guid: ea90e859bd1143a48990adecfedf8192, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 10.fashi3
+    second: {fileID: 2100000, guid: 710101f6a7d0150458e11fe79798974d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 11.fashi4
+    second: {fileID: 2100000, guid: d4b38da5235cd3a4e88980691cf503c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 12.pangci
+    second: {fileID: 2100000, guid: 92ac0514de0256e498e508c8326e1c6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 13.yifu
+    second: {fileID: 2100000, guid: f441f2f3c8bdb844dbe78371f7a0c59c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 14.yifu3
+    second: {fileID: 2100000, guid: d5c16a6c94bd22947acc725638762d21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 15.yifu2
+    second: {fileID: 2100000, guid: b236d4656d630374d8b745b332dc547f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 16.yifu4
+    second: {fileID: 2100000, guid: 02cb986f3d86fc84d81ecb712810b9aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 17.skirt
+    second: {fileID: 2100000, guid: 6719cb46f7632794180ce855608bb783, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 18.sk2
+    second: {fileID: 2100000, guid: 03643d42010782a45aaf478587c4ef35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 19.shoe
+    second: {fileID: 2100000, guid: 4326dc268d8e95a4e92bb85b5c657c7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 2.eyewhite
+    second: {fileID: 2100000, guid: 6977473eeb2e76b418a236ca253cd6e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 20.mat2
+    second: {fileID: 2100000, guid: 00af597568be9544e9884bca9ffd5703, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 21.mat1
+    second: {fileID: 2100000, guid: 6b2bf1075b0152448aa04b090085f6a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 22.mat3
+    second: {fileID: 2100000, guid: 6c36fd97fe908c24db68ab855da9257b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 23.mat4
+    second: {fileID: 2100000, guid: 287a6b4945f12704cbb0d395fc71bd10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 3.jiemao
+    second: {fileID: 2100000, guid: ef12d454a5a810244a62e2edd529533c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 4.eye
+    second: {fileID: 2100000, guid: 87a90f306d1f50440bce5cc1851b7867, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5.eyelight
+    second: {fileID: 2100000, guid: 00c036543a7318643b648bafe708227e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 6.h
+    second: {fileID: 2100000, guid: 672be8defd19b2f4e86b24e7491edcc1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7.h2
+    second: {fileID: 2100000, guid: 2fa92b84c0e1a794faf9a6a317c4ef7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 8.fashi
+    second: {fileID: 2100000, guid: 94044e348b4230d4c825b9175640509b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 9.fahshi2
+    second: {fileID: 2100000, guid: 1b3385b0156e3fe479df39286786abdc, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
