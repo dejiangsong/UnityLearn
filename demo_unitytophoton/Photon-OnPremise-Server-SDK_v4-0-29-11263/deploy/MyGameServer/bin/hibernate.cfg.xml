@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+This template was written to work with NHibernate.Test.
+Copy the template to your NHibernate.Test project folder and rename it in hibernate.cfg.xml and change it 
+for your own use before compile tests in VisualStudio.
+-->
+<!--
+注：需要在属性中将复制到输出目录设置为始终复制，以免该配置文件在程序生成目录下找不到
+-->
+<hibernate-configuration  xmlns="urn:nhibernate-configuration-2.2" >
+  <!--<session-factory name="NHibernate.Test">-->
+  <!-- 官方示例 -->
+  <session-factory>
+    <property name="connection.driver_class">NHibernate.Driver.MySqlDataDriver</property>
+    <!-- 配置连接什么类型的数据库驱动 -->
+    <property name="connection.connection_string">
+      <!-- 配置数据库连接字符串 -->
+      <!--Database=demo;Data Source=localhost;User Id=root;Password=123456;
+      Protocol=memory;Old Guids=True;-->  <!-- 官方示例 -->
+      Server=localhost;Database=demo;User ID=root;Password=123456;
+    </property>
+    <!-- 配置数据库版本 -->
+    <property name="dialect">NHibernate.Dialect.MySQL5Dialect</property>
+    
+    <!-- 新增配置：指定程序集-->
+    <mapping assembly="NHibernateToMySql"/>
+    
+  </session-factory>
+</hibernate-configuration>

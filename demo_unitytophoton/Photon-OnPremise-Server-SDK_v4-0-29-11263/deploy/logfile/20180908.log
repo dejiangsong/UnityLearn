@@ -1,0 +1,8 @@
+2018-09-08 16:38:14,184 [13] INFO  MyGameServer.MyGameServer [(null)] - Setup Completed!
+2018-09-08 16:38:14,208 [13] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=MyGame1; AppPath=F:\Server\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer, Type=MyGameServer.MyGameServer 
+2018-09-08 16:38:17,449 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=MyGame1
+2018-09-08 16:38:17,453 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=MyGame1
+2018-09-08 16:38:26,589 [1] INFO  MyGameServer.MyGameServer [(null)] - Setup Completed!
+2018-09-08 16:38:26,609 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=MyGame1; AppPath=F:\Server\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer, Type=MyGameServer.MyGameServer 
+2018-09-08 16:39:37,841 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=MyGame1
+2018-09-08 16:39:37,845 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=MyGame1

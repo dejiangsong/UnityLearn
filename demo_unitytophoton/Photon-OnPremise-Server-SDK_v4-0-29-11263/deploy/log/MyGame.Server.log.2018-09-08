@@ -1,0 +1,108 @@
+2018-09-08 16:39:47,997 [1] INFO  MyGameServer.MyGameServer - Setup Completed!
+2018-09-08 16:39:48,017 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MyGame1; AppPath=F:\Server\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer, Type=MyGameServer.MyGameServer 
+2018-09-08 16:45:26,652 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MyGame1
+2018-09-08 16:45:26,656 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MyGame1
+2018-09-08 18:21:28,329 [1] INFO  MyGameServer.MyGameServer - Setup Completed!
+2018-09-08 18:21:28,343 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MyGame1; AppPath=F:\Server\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer, Type=MyGameServer.MyGameServer 
+2018-09-08 18:23:38,780 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MyGame1
+2018-09-08 18:23:38,784 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MyGame1
+2018-09-08 18:26:14,477 [1] INFO  MyGameServer.MyGameServer - Setup Completed!
+2018-09-08 18:26:14,492 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MyGame1; AppPath=F:\Server\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer, Type=MyGameServer.MyGameServer 
+2018-09-08 18:30:18,055 [11] INFO  MyGameServer.MyGameServer - 1个客户端已连接
+2018-09-08 19:02:07,947 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MyGame1
+2018-09-08 19:02:07,951 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MyGame1
+2018-09-08 19:02:19,199 [1] INFO  MyGameServer.MyGameServer - Setup Completed!
+2018-09-08 19:02:19,216 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MyGame1; AppPath=F:\Server\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer, Type=MyGameServer.MyGameServer 
+2018-09-08 19:03:23,168 [10] INFO  MyGameServer.MyGameServer - 1个客户端已连接
+2018-09-08 19:04:16,486 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MyGame1
+2018-09-08 19:04:16,491 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MyGame1
+2018-09-08 19:05:00,845 [1] INFO  MyGameServer.MyGameServer - Setup Completed!
+2018-09-08 19:05:00,861 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MyGame1; AppPath=F:\Server\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer, Type=MyGameServer.MyGameServer 
+2018-09-08 19:05:08,132 [11] INFO  MyGameServer.MyGameServer - 1个客户端已连接
+2018-09-08 19:05:58,153 [13] INFO  MyGameServer.MyGameServer - 1个客户端已连接
+2018-09-08 19:09:25,201 [11] INFO  MyGameServer.MyGameServer - 1个客户端已连接
+2018-09-08 19:09:26,793 [10] INFO  MyGameServer.MyGameServer - 收到了1个请求
+2018-09-08 19:09:26,794 [10] INFO  MyGameServer.MyGameServer - 收到了1个请求
+2018-09-08 19:09:26,804 [12] INFO  MyGameServer.MyGameServer - 收到了1个请求
+2018-09-08 19:09:26,821 [11] INFO  MyGameServer.MyGameServer - 收到了1个请求
+2018-09-08 19:09:26,838 [12] INFO  MyGameServer.MyGameServer - 收到了1个请求
+2018-09-08 19:09:31,646 [13] INFO  MyGameServer.MyGameServer - 收到了1个请求
+2018-09-08 19:09:31,663 [10] INFO  MyGameServer.MyGameServer - 收到了1个请求
+2018-09-08 19:09:31,679 [12] INFO  MyGameServer.MyGameServer - 收到了1个请求
+2018-09-08 19:09:31,696 [11] INFO  MyGameServer.MyGameServer - 收到了1个请求
+2018-09-08 19:09:31,713 [12] INFO  MyGameServer.MyGameServer - 收到了1个请求
+2018-09-08 19:09:31,731 [10] INFO  MyGameServer.MyGameServer - 收到了1个请求
+2018-09-08 19:09:31,748 [13] INFO  MyGameServer.MyGameServer - 收到了1个请求
+2018-09-08 19:09:31,764 [11] INFO  MyGameServer.MyGameServer - 收到了1个请求
+2018-09-08 19:09:31,781 [12] INFO  MyGameServer.MyGameServer - 收到了1个请求
+2018-09-08 19:09:31,798 [11] INFO  MyGameServer.MyGameServer - 收到了1个请求
+2018-09-08 19:09:31,815 [12] INFO  MyGameServer.MyGameServer - 收到了1个请求
+2018-09-08 19:09:31,831 [13] INFO  MyGameServer.MyGameServer - 收到了1个请求
+2018-09-08 19:09:31,848 [10] INFO  MyGameServer.MyGameServer - 收到了1个请求
+2018-09-08 19:09:31,865 [11] INFO  MyGameServer.MyGameServer - 收到了1个请求
+2018-09-08 19:09:31,881 [12] INFO  MyGameServer.MyGameServer - 收到了1个请求
+2018-09-08 19:09:31,898 [13] INFO  MyGameServer.MyGameServer - 收到了1个请求
+2018-09-08 19:09:31,915 [10] INFO  MyGameServer.MyGameServer - 收到了1个请求
+2018-09-08 19:09:31,932 [11] INFO  MyGameServer.MyGameServer - 收到了1个请求
+2018-09-08 19:09:31,949 [12] INFO  MyGameServer.MyGameServer - 收到了1个请求
+2018-09-08 19:09:31,966 [13] INFO  MyGameServer.MyGameServer - 收到了1个请求
+2018-09-08 19:09:31,983 [10] INFO  MyGameServer.MyGameServer - 收到了1个请求
+2018-09-08 19:09:31,999 [13] INFO  MyGameServer.MyGameServer - 收到了1个请求
+2018-09-08 19:09:32,016 [12] INFO  MyGameServer.MyGameServer - 收到了1个请求
+2018-09-08 19:09:32,034 [13] INFO  MyGameServer.MyGameServer - 收到了1个请求
+2018-09-08 19:09:32,050 [10] INFO  MyGameServer.MyGameServer - 收到了1个请求
+2018-09-08 19:09:32,067 [11] INFO  MyGameServer.MyGameServer - 收到了1个请求
+2018-09-08 19:11:36,750 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MyGame1
+2018-09-08 19:11:36,755 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MyGame1
+2018-09-08 19:33:31,028 [1] INFO  MyGameServer.MyGameServer - Setup Completed!
+2018-09-08 19:33:31,041 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MyGame1; AppPath=F:\Server\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer, Type=MyGameServer.MyGameServer 
+2018-09-08 19:36:19,732 [11] INFO  MyGameServer.MyGameServer - 1个客户端已连接
+2018-09-08 19:36:24,690 [12] INFO  MyGameServer.MyGameServer - 收到了1个请求
+2018-09-08 19:36:36,110 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MyGame1
+2018-09-08 19:36:36,114 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MyGame1
+2018-09-08 19:54:39,454 [1] INFO  MyGameServer.MyGameServer - Setup Completed!
+2018-09-08 19:54:39,469 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MyGame1; AppPath=F:\Server\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer, Type=MyGameServer.MyGameServer 
+2018-09-08 20:07:46,630 [16] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MyGame1
+2018-09-08 20:07:46,631 [16] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MyGame1
+2018-09-08 20:07:51,427 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MyGame1
+2018-09-08 20:07:51,447 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MyGame1
+2018-09-08 20:08:22,828 [1] INFO  MyGameServer.MyGameServer - Setup Completed!
+2018-09-08 20:08:22,845 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MyGame1; AppPath=F:\Server\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer, Type=MyGameServer.MyGameServer 
+2018-09-08 20:08:44,412 [10] INFO  MyGameServer.MyGameServer - 1个客户端已连接
+2018-09-08 20:08:58,221 [13] INFO  MyGameServer.MyGameServer - 收到了1个请求
+2018-09-08 20:08:58,222 [13] INFO  MyGameServer.MyGameServer - 得到的数据是你的名字是nekroz 
+2018-09-08 20:09:50,978 [11] INFO  MyGameServer.MyGameServer - 1个客户端已连接
+2018-09-08 20:09:55,256 [13] INFO  MyGameServer.MyGameServer - 收到了1个请求
+2018-09-08 20:09:55,256 [13] INFO  MyGameServer.MyGameServer - 得到的数据是你的名字是nekroz 
+2018-09-08 20:10:28,201 [13] INFO  MyGameServer.MyGameServer - 1个客户端已连接
+2018-09-08 20:10:29,376 [11] INFO  MyGameServer.MyGameServer - 收到了1个请求
+2018-09-08 20:10:29,376 [11] INFO  MyGameServer.MyGameServer - 得到的数据是你的名字是nekroz 
+2018-09-08 20:12:48,320 [10] INFO  MyGameServer.MyGameServer - 1个客户端已连接
+2018-09-08 20:13:33,768 [13] INFO  MyGameServer.MyGameServer - 1个客户端已连接
+2018-09-08 20:13:35,464 [10] INFO  MyGameServer.MyGameServer - 收到了1个请求
+2018-09-08 20:13:35,465 [10] INFO  MyGameServer.MyGameServer - 得到的数据是你的名字是nekroz 
+2018-09-08 20:14:45,717 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MyGame1
+2018-09-08 20:14:45,719 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MyGame1
+2018-09-08 20:15:39,630 [1] INFO  MyGameServer.MyGameServer - Setup Completed!
+2018-09-08 20:15:39,647 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MyGame1; AppPath=F:\Server\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer, Type=MyGameServer.MyGameServer 
+2018-09-08 20:15:59,302 [12] INFO  MyGameServer.MyGameServer - 1个客户端已连接
+2018-09-08 20:16:03,984 [12] INFO  MyGameServer.MyGameServer - 收到了1个请求
+2018-09-08 20:16:03,985 [12] INFO  MyGameServer.MyGameServer - 得到的数据是你的名字是nekroz 
+2018-09-08 20:20:21,405 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MyGame1
+2018-09-08 20:20:21,409 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MyGame1
+2018-09-08 20:20:35,691 [1] INFO  MyGameServer.MyGameServer - Setup Completed!
+2018-09-08 20:20:35,716 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MyGame1; AppPath=F:\Server\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer, Type=MyGameServer.MyGameServer 
+2018-09-08 20:20:40,419 [13] INFO  MyGameServer.MyGameServer - 1个客户端已连接
+2018-09-08 20:20:42,322 [11] INFO  MyGameServer.MyGameServer - 收到了1个请求
+2018-09-08 20:20:42,323 [11] INFO  MyGameServer.MyGameServer - 得到的数据是你的名字是nekroz 
+2018-09-08 20:21:33,057 [11] INFO  MyGameServer.MyGameServer - 1个客户端已连接
+2018-09-08 20:38:16,872 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MyGame1
+2018-09-08 20:38:16,877 [1] INFO  MyGameServer.MyGameServer - 1个客户端断开了连接
+2018-09-08 20:38:16,878 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MyGame1
+2018-09-08 20:56:49,699 [1] INFO  MyGameServer.MyGameServer - Setup Completed!
+2018-09-08 20:56:49,712 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MyGame1; AppPath=F:\Server\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer, Type=MyGameServer.MyGameServer 
+2018-09-08 20:57:03,991 [10] INFO  MyGameServer.MyGameServer - 1个客户端已连接
+2018-09-08 20:57:17,470 [12] INFO  MyGameServer.MyGameServer - 收到了1个请求
+2018-09-08 20:57:17,472 [12] INFO  MyGameServer.MyGameServer - 得到的数据是你的名字是nekroz 
+2018-09-08 21:02:18,367 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MyGame1
+2018-09-08 21:02:18,371 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MyGame1

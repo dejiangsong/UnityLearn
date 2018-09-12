@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--
+注：需要在属性中将生成操作设置为嵌入的资源，以便于hibernate.cfg.xml能从程序集中找到
+-->
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   assembly="NHibernateToMySql"
+                   namespace="NHibernateToMySql.Model">
+
+  <class name="User" table="user">
+    <id name="Id" column ="id" type="Int32">
+      <generator class="native" />
+      <!-- 字段属性，guid是唯一id ，native是使用本地数据库自带的生成器（自增长） -->
+    </id>
+    <property name="Name" column="name" type="String" />
+    <property name="Password" column="password" type="String" />
+    <property name="Msg" column="msg" type="String" />
+  </class>
+
+</hibernate-mapping>

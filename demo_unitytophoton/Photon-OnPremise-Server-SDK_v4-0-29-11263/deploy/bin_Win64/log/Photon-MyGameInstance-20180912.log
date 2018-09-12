@@ -1,0 +1,158 @@
+15556: 14:04:24.161 - Restarting application: "MyGame1" due to file changes
+15556: 14:04:24.177 - Application: "MyGame1" restart request (abort existing connections)
+15556: 14:04:24.299 - Taking reference on default app domain
+15556: 14:04:24.411 - Application: "MyGame1" started in app domain: 9
+15556: 14:04:24.578 - RequestApplicationStop: 8
+15556: 14:04:24.582 - Application: "MyGame1" stopped in app domain: 8 (abort existing connections)
+15556: 14:04:24.582 - Application: "MyGame1" restart complete.
+6068: 14:04:24.582 - CManagedHost::OnDefaultAction() - OPR_AppDomainUnload - eUnloadAppDomain
+12380: 14:04:24.584 - Unloading Domain: ApplicationName = 'MyGame1', DomainId='8'
+6068: 14:04:24.584 - CManagedHost::OnDomainUnload() - 8
+15556: 14:04:29.757 - Restarting application: "MyGame1" due to file changes
+15556: 14:04:29.757 - Application: "MyGame1" restart request (abort existing connections)
+15556: 14:04:29.805 - Taking reference on default app domain
+15556: 14:04:29.842 - Application: "MyGame1" started in app domain: 10
+15556: 14:04:29.960 - RequestApplicationStop: 9
+15556: 14:04:29.977 - Application: "MyGame1" stopped in app domain: 9 (abort existing connections)
+6068: 14:04:29.977 - CManagedHost::OnDefaultAction() - OPR_AppDomainUnload - eUnloadAppDomain
+15556: 14:04:29.977 - Application: "MyGame1" restart complete.
+12380: 14:04:29.980 - Unloading Domain: ApplicationName = 'MyGame1', DomainId='9'
+6068: 14:04:29.980 - CManagedHost::OnDomainUnload() - 9
+15556: 14:20:34.095 - Restarting application: "MyGame1" due to file changes
+15556: 14:20:34.095 - Application: "MyGame1" restart request (abort existing connections)
+15556: 14:20:34.197 - Taking reference on default app domain
+15556: 14:20:34.289 - Application: "MyGame1" started in app domain: 11
+15556: 14:20:34.503 - RequestApplicationStop: 10
+15556: 14:20:34.522 - Application: "MyGame1" stopped in app domain: 10 (abort existing connections)
+15556: 14:20:34.522 - Application: "MyGame1" restart complete.
+6068: 14:20:34.522 - CManagedHost::OnDefaultAction() - OPR_AppDomainUnload - eUnloadAppDomain
+12380: 14:20:34.525 - Unloading Domain: ApplicationName = 'MyGame1', DomainId='10'
+6068: 14:20:34.525 - CManagedHost::OnDomainUnload() - 10
+15556: 14:53:44.982 - Restarting application: "MyGame1" due to file changes
+15556: 14:53:44.982 - Application: "MyGame1" restart request (abort existing connections)
+15556: 14:53:45.233 - Taking reference on default app domain
+15556: 14:53:45.288 - Application: "MyGame1" started in app domain: 12
+15556: 14:53:45.423 - RequestApplicationStop: 11
+15556: 14:53:45.426 - Application: "MyGame1" stopped in app domain: 11 (abort existing connections)
+6068: 14:53:45.426 - CManagedHost::OnDefaultAction() - OPR_AppDomainUnload - eUnloadAppDomain
+15556: 14:53:45.426 - Application: "MyGame1" restart complete.
+12380: 14:53:45.428 - Unloading Domain: ApplicationName = 'MyGame1', DomainId='11'
+6068: 14:53:45.428 - CManagedHost::OnDomainUnload() - 11
+15556: 15:13:28.859 - Restarting application: "MyGame1" due to file changes
+15556: 15:13:28.859 - Application: "MyGame1" restart request (abort existing connections)
+15556: 15:13:28.949 - Taking reference on default app domain
+15556: 15:13:28.987 - Application: "MyGame1" started in app domain: 13
+15556: 15:13:29.107 - RequestApplicationStop: 12
+15556: 15:13:29.122 - Application: "MyGame1" stopped in app domain: 12 (abort existing connections)
+15556: 15:13:29.122 - Application: "MyGame1" restart complete.
+6068: 15:13:29.122 - CManagedHost::OnDefaultAction() - OPR_AppDomainUnload - eUnloadAppDomain
+12380: 15:13:29.125 - Unloading Domain: ApplicationName = 'MyGame1', DomainId='12'
+6068: 15:13:29.125 - CManagedHost::OnDomainUnload() - 12
+15556: 15:44:24.085 - Restarting application: "MyGame1" due to file changes
+15556: 15:44:24.085 - Application: "MyGame1" restart request (abort existing connections)
+15556: 15:44:24.086 - Failed to restart application: CManagedHost::CreateApplicationInNewAppDomain() - Failed to create new application domain for : "MyGame1" - Can't find MyGameServer.dll in F:\Server\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer\bin or F:\Server\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer\bin
+15556: 15:54:27.015 - Restarting application: "MyGame1" due to file changes
+15556: 15:54:27.015 - Application: "MyGame1" restart request (abort existing connections)
+15556: 15:54:27.103 - Taking reference on default app domain
+15556: 15:54:27.186 - Application: "MyGame1" started in app domain: 14
+15556: 15:54:27.340 - RequestApplicationStop: 13
+15556: 15:54:27.361 - Application: "MyGame1" stopped in app domain: 13 (abort existing connections)
+15556: 15:54:27.361 - Application: "MyGame1" restart complete.
+6068: 15:54:27.361 - CManagedHost::OnDefaultAction() - OPR_AppDomainUnload - eUnloadAppDomain
+12380: 15:54:27.364 - Unloading Domain: ApplicationName = 'MyGame1', DomainId='13'
+6068: 15:54:27.364 - CManagedHost::OnDomainUnload() - 13
+15556: 16:48:47.970 - Restarting application: "MyGame1" due to file changes
+15556: 16:48:47.970 - Application: "MyGame1" restart request (abort existing connections)
+15556: 16:48:48.021 - Taking reference on default app domain
+15556: 16:48:48.118 - Application: "MyGame1" started in app domain: 15
+15556: 16:48:48.276 - RequestApplicationStop: 14
+15556: 16:48:48.280 - CManagedHost::OnDefaultAction() - OPR_ThreadAbort - eAbortThread
+9084: 16:48:48.311 - CManagedHost::OnFailure() - FAIL_CriticalResource - eThrowException
+9084: 16:48:48.311 - CManagedHost::OnFailure() - FAIL_CriticalResource - eThrowException
+15556: 16:48:48.391 - Application: "MyGame1" stopped in app domain: 14 (abort existing connections)
+15556: 16:48:48.391 - Application: "MyGame1" restart complete.
+6068: 16:48:48.391 - CManagedHost::OnDefaultAction() - OPR_AppDomainUnload - eUnloadAppDomain
+12380: 16:48:48.393 - Unloading Domain: ApplicationName = 'MyGame1', DomainId='14'
+6068: 16:48:48.393 - CManagedHost::OnDomainUnload() - 14
+15556: 16:50:45.008 - Restarting application: "MyGame1" due to file changes
+15556: 16:50:45.008 - Application: "MyGame1" restart request (abort existing connections)
+15556: 16:50:45.088 - Taking reference on default app domain
+15556: 16:50:45.129 - Application: "MyGame1" started in app domain: 16
+15556: 16:50:45.228 - RequestApplicationStop: 15
+15556: 16:50:45.242 - CManagedHost::OnDefaultAction() - OPR_ThreadAbort - eAbortThread
+23392: 16:50:45.246 - CManagedHost::OnFailure() - FAIL_CriticalResource - eThrowException
+23392: 16:50:45.246 - CManagedHost::OnFailure() - FAIL_CriticalResource - eThrowException
+15556: 16:50:45.253 - Application: "MyGame1" stopped in app domain: 15 (abort existing connections)
+15556: 16:50:45.253 - Application: "MyGame1" restart complete.
+6068: 16:50:45.253 - CManagedHost::OnDefaultAction() - OPR_AppDomainUnload - eUnloadAppDomain
+12380: 16:50:45.255 - Unloading Domain: ApplicationName = 'MyGame1', DomainId='15'
+6068: 16:50:45.255 - CManagedHost::OnDomainUnload() - 15
+1332: 17:00:19.043 - Service is stopped...
+1332: 17:00:19.043 - Server shutting down...
+1332: 17:00:19.043 - Shutdown monitoring enabled, 30000ms before process abort
+1332: 17:00:19.073 - Notifying CLR applications of shutdown...
+1332: 17:00:19.073 - RequestApplicationStop: 16
+1332: 17:00:19.074 - RequestStop: defalt app domain
+1332: 17:00:19.087 - Shutting down WebSocket Outbound Connection Manager...
+1332: 17:00:19.107 - Shutting down TCP Outbound Connection Manager...
+1332: 17:00:19.126 - Shutting down ENet Outbound Connection Manager...
+1332: 17:00:19.126 - Disconnecting all outbound peers...
+1332: 17:00:19.139 - Shutting down ENet host...
+1332: 17:00:19.139 - Disconnecting all peers...
+1332: 17:00:19.139 - Shutting down socket servers...
+1332: 17:00:19.139 - Shutting down ENet thread pool...
+1332: 17:00:19.139 - Shutting down TCP inactivity timers...
+1332: 17:00:19.140 - WaitingForShutdownToComplete: TCP:0.0.0.0:4530
+1332: 17:00:19.140 - OnShutdownCompleted: TCP:0.0.0.0:4530
+1332: 17:00:19.140 - WaitingForShutdownToComplete: UDP:127.0.0.1:5055
+1332: 17:00:19.140 - OnShutdownCompleted: UDP:127.0.0.1:5055
+1332: 17:00:19.140 - WaitingForShutdownToComplete: UDP:192.168.0.145:5055
+1332: 17:00:19.140 - OnShutdownCompleted: UDP:192.168.0.145:5055
+1332: 17:00:19.140 - WaitingForShutdownToComplete: UDP:192.168.179.1:5055
+1332: 17:00:19.140 - OnShutdownCompleted: UDP:192.168.179.1:5055
+1332: 17:00:19.140 - WaitingForShutdownToComplete: UDP:192.168.220.1:5055
+1332: 17:00:19.140 - OnShutdownCompleted: UDP:192.168.220.1:5055
+1332: 17:00:19.140 - Shutting down CLR applications...
+1332: 17:00:19.141 - CManagedHost::OnDefaultAction() - OPR_ThreadAbort - eAbortThread
+11596: 17:00:19.191 - CManagedHost::OnFailure() - FAIL_CriticalResource - eThrowException
+11596: 17:00:19.192 - CManagedHost::OnFailure() - FAIL_CriticalResource - eThrowException
+1332: 17:00:19.252 - Shutting down business logic thread pool...
+6068: 17:00:19.252 - CManagedHost::OnDefaultAction() - OPR_AppDomainUnload - eUnloadAppDomain
+1332: 17:00:19.252 - Shutting down I/O thread pool...
+1332: 17:00:19.252 - Destroying servers
+12380: 17:00:19.257 - Unloading Domain: ApplicationName = 'MyGame1', DomainId='16'
+6068: 17:00:19.258 - CManagedHost::OnDomainUnload() - 16
+1332: 17:00:19.266 - Destroying WebSocket Outbound Connection Manager
+1332: 17:00:19.266 - Destroying TCP Outbound Connection Manager
+1332: 17:00:19.266 - Destroying TCP inactivity timer
+1332: 17:00:19.266 - Destroying ENet timer wheel
+1332: 17:00:19.266 - Destroying ENet host
+1332: 17:00:19.266 - Destroying ENet outbound host
+1332: 17:00:19.266 - Destroying HTTP inactivity timer
+1332: 17:00:19.266 - Destroying HTTP host
+1332: 17:00:19.266 - Destroying HTTP Chunk host
+1332: 17:00:19.266 - Flushing ENET buffer allocator...
+1332: 17:00:19.268 - Flushing TCP buffer handle allocator...
+1332: 17:00:19.268 - Flushing stream socket allocator...
+1332: 17:00:19.268 - Flushing inbound datagram socket allocator...
+1332: 17:00:19.269 - Flushing outbound datagram socket allocator...
+1332: 17:00:19.269 - Destroying CLR dispatcher
+1332: 17:00:19.269 - Destroying CLR applications
+1332: 17:00:19.270 - ~CCLRApplicationCollection() - Waiting up to 10 seconds for the CLR to release all of our objects
+1332: 17:00:19.270 - ~CCLRApplicationCollection() - Done. All objects released
+1332: 17:00:19.270 - ~CManagedHost() - Release default app domain
+1332: 17:00:19.270 - CManagedHost::OnDomainUnload() - 1
+1332: 17:00:19.270 - ~CManagedHost() - Waiting up to 10 seconds for CLR shutdown...
+1332: 17:00:19.272 - ~CManagedHost
+1332: 17:00:19.273 - Destroying ENet thread pool
+1332: 17:00:19.273 - Destroying Business logic thread pool
+1332: 17:00:19.273 - Destroying I/O thread pool
+1332: 17:00:19.273 - Destroying ENet buffer allocator
+1332: 17:00:19.273 - Destroying TCP buffer allocator
+1332: 17:00:19.273 - Destroying TCP socket allocator
+1332: 17:00:19.273 - Destroying ENet inbound socket allocator
+1332: 17:00:19.273 - Destroying ENet outbound socket allocator
+1332: 17:00:19.273 - Destroying shared datagram flow control data
+1332: 17:00:19.274 - Shutdown complete...
+1332: 17:00:19.274 - Service shutting down
+1332: 17:00:19.277 - Service shut down complete

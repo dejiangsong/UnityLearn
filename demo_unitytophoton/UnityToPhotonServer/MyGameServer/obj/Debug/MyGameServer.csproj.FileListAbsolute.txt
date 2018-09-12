@@ -1,0 +1,14 @@
+F:\Server\Photon\Projects\UnityToPhoton\MyGameServer\obj\Debug\MyGameServer.csproj.CoreCompileInputs.cache
+F:\Server\Photon\Projects\UnityToPhoton\MyGameServer\obj\Debug\MyGameServer.csproj.CopyComplete
+F:\Server\Photon\Projects\UnityToPhoton\MyGameServer\obj\Debug\MyGameServer.dll
+F:\Server\Photon\Projects\UnityToPhoton\MyGameServer\obj\Debug\MyGameServer.pdb
+F:\Server\Photon\Projects\UnityToPhoton\MyGameServer\obj\Debug\MyGameServer.csprojAssemblyReference.cache
+F:\Server\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer\bin\hibernate.cfg.xml
+F:\Server\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer\bin\log4net.config
+F:\Server\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer\bin\MyGameServer.dll
+F:\Server\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer\bin\MyGameServer.pdb
+F:\Server\Photon\Projects\UnityToPhotonServer\MyGameServer\obj\Debug\MyGameServer.csprojAssemblyReference.cache
+F:\Server\Photon\Projects\UnityToPhotonServer\MyGameServer\obj\Debug\MyGameServer.csproj.CoreCompileInputs.cache
+F:\Server\Photon\Projects\UnityToPhotonServer\MyGameServer\obj\Debug\MyGameServer.csproj.CopyComplete
+F:\Server\Photon\Projects\UnityToPhotonServer\MyGameServer\obj\Debug\MyGameServer.dll
+F:\Server\Photon\Projects\UnityToPhotonServer\MyGameServer\obj\Debug\MyGameServer.pdb

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0f57694c509fa3b44800c8aa5ff4d335
+timeCreated: 1533781600
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: HYLeMiaoTiJ
+  fontNames:
+  - HYLeMiaoTiJ
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
