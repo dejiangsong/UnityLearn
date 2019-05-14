@@ -15,6 +15,8 @@
 
 ![演示](https://github.com//dejiangsong/UnityLearn/blob/master/src/mmd_ar.gif?raw=true)
 
+![演示](https://github.com//dejiangsong/UnityLearn/blob/master/src/mmd_ar_dragon.gif?raw=true)
+
 ---
 - Pong
 
